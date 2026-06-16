@@ -1,0 +1,4 @@
+length= int(input("enter your num:"))
+breadth = int(input("enter your num:"))
+
+print("Area=",length*breadth)
