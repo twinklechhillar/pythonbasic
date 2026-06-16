@@ -1,0 +1,2 @@
+my_name = "twinkle"
+print(input(my_name))
