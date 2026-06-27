@@ -1,0 +1,15 @@
+nums = [10, 20]
+nums.append(30)
+print(nums)
+
+nums = [10, 20, 30]
+nums.remove(20)
+print(nums)
+
+nums = [10, 20, 30]
+nums.pop()
+print(nums)
+
+nums = [30, 10, 20]
+nums.sort()
+print(nums)
