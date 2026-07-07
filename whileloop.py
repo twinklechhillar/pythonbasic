@@ -34,3 +34,25 @@ while i<=n:
     
 print(total) 
 
+print table 
+
+n = int(input("enter the num:"))
+i =1
+while i<=10:
+    print(n,"*",i,"=",n*i)
+    i+=1
+
+print factorial
+    n = int(input("Enter a number: "))
+
+i = 1
+fact = 1
+
+while i <= n:
+    fact = fact * i
+    i += 1
+
+print("Factorial =", fact)
+
+
+
